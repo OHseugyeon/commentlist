@@ -19,7 +19,7 @@ function Comment(props) {
 }
 
 export default Comment;
-/*css*/
+/*css */
 const styles = {
   wrapper: {
     margin: 8,
